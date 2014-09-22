@@ -25,5 +25,5 @@ mrt add pfafman:jasny-bootstrap-less
 
 Add an import for the less files in your main.less file
 ```
-
+@import "packages/pfafman:jasny-bootstrap-less/lib/less/jasny-bootstrap.import.less";
 ```
