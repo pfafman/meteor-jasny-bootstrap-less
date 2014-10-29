@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Jasny Bootstrap packaged for meteor",
-  version: "3.1.3",
+  version: "3.1.3_1",
   git: "https://github.com/pfafman/meteor-jasny-bootstrap-less.git"
 });
 
