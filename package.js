@@ -1,11 +1,12 @@
 Package.describe({
+  name: "pfafman:jasny-bootstrap-less",
   summary: "Jasny Bootstrap packaged for meteor",
-  version: "3.1.3_1",
+  version: "3.1.3_2",
   git: "https://github.com/pfafman/meteor-jasny-bootstrap-less.git"
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('METEOR@0.9.0');
+  api.versionsFrom('METEOR@1.0.0');
 
   api.use('jquery', 'client');
   api.use('less', 'client');
